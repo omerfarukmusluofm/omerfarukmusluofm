@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ömer Faruk Muslu</h1>
 <h3 align="center">Frontend Developer & Web Designer</h3>
 
