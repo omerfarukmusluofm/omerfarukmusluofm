@@ -38,6 +38,12 @@
 
 ---
 
+###  Projects
+
+- OFM-Porfolio [https://ofm-portfolio-tan.vercel.app/](https://ofm-portfolio-tan.vercel.app/)
+- Landing Form Mini Project [https://landing-form-mini-project.vercel.app/](https://landing-form-mini-project.vercel.app/)
+- Smooth Scroll Mini Project [https://smooth-scroll-mini-project1.vercel.app/](https://smooth-scroll-mini-project1.vercel.app/)
+
 ### 📫 Contact Me
 
 - 📧 Mail: **omerfaruk.muslu@webnex.com.tr**
